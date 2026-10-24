@@ -1,0 +1,7 @@
+Database: DRUGBANK
+Model: Random Forest
+Parameters: n_estimators=200, max_depth=20
+Number of runs: 20
+
+AUROC: 0.8682 ¡À 0.0037
+AUPRC: 0.8815 ¡À 0.0036

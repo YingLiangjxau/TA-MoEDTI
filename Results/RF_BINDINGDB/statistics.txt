@@ -1,0 +1,7 @@
+Database: BINDINGDB
+Model: Random Forest
+Parameters: n_estimators=200, max_depth=20
+Number of runs: 20
+
+AUROC: 0.9107 ¡À 0.0058
+AUPRC: 0.9222 ¡À 0.0046

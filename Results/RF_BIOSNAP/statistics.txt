@@ -1,0 +1,7 @@
+Database: BIOSNAP
+Model: Random Forest
+Parameters: n_estimators=200, max_depth=20
+Number of runs: 20
+
+AUROC: 0.9098 ¡À 0.0089
+AUPRC: 0.9224 ¡À 0.0067
