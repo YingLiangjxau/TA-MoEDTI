@@ -1,6 +1,6 @@
 # TA-MoEDTI
 ## Overview
-
+![TA-MoEDTI](flow.png)
 ## System Requirements
 
 The source code developed in Python 3.8 using PyTorch 2.4.0. The required python dependencies are given below. DrugBAN is supported for any standard computer and operating system (Windows/macOS/Linux) with enough RAM to run. There is no additional non-standard hardware requirements.
